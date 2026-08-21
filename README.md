@@ -21,44 +21,51 @@ I am a developer focused on building practical backend systems and AI/ML pipelin
 
 ### 🛠️ Technical Skills
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,js,html,css" height="40" /><br/>
-      <sub>Python, SQL, JavaScript, HTML, CSS</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Data & Machine Learning</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,opencv" height="40" /><br/>
-      <sub>NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, YOLO</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>AI / LLM</b><br/><br/>
-      <br/><br/>
-      <sub>LangGraph, RAG, OpenAI API</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Backend / Web</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,react" height="40" /><br/>
-      <sub>FastAPI, React</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" height="40" /><br/>
-      <sub>PostgreSQL, MongoDB, SQLite</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Tools & Infrastructure</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="40" /><br/>
-      <sub>Git, GitHub, Docker, Linux, Postman</sub>
-    </td>
-  </tr>
-</table>
+<br/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css" height="40" />
+<br/>
+<sub>Python • SQL • JavaScript • HTML • CSS</sub>
+
+<br/><br/>
+
+**Data & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,opencv" height="40" />
+<br/>
+<sub>NumPy • Pandas • Scikit-learn • PyTorch • OpenCV • YOLO</sub>
+
+<br/><br/>
+
+**AI / LLM**
+<br/>
+<sub>LangGraph • RAG • OpenAI API</sub>
+
+<br/><br/>
+
+**Backend / Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,react" height="40" />
+<br/>
+<sub>FastAPI • React</sub>
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" height="40" />
+<br/>
+<sub>PostgreSQL • MongoDB • SQLite</sub>
+
+<br/><br/>
+
+**Tools & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="40" />
+<br/>
+<sub>Git • GitHub • Docker • Linux • Postman</sub>
 
 <br/><br/>
 
