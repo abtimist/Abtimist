@@ -23,9 +23,7 @@
 
 ### 👨‍💻 About Me
 
-```text
-"Curious about how things work. Building things while figuring life out."
-```
+> *"When something is important enough, you do it even if the odds are not in your favor."* — **Elon Musk**
 
 - 🔭 **Focus**: Backend Development, Artificial Intelligence, and Process Automation.
 - 💡 **Passion**: Building clean, high-performance tools and smart web applications.
@@ -125,9 +123,13 @@
 
 ---
 
-<!-- Quote Widget -->
+<!-- Elon Musk Quote Widget -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <br/>
+  <a href="https://github.com/abtimist">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=70A5FD&center=true&vcenter=true&width=750&lines=%22When+something+is+important+enough%2C+you+do+it+even+if+the+odds+are+not+in+your+favor.%22+%E2%80%94+Elon+Musk;%22Failure+is+an+option+here.+If+things+are+not+failing%2C+you+are+not+innovating+enough.%22+%E2%80%94+Elon+Musk;%22Persistence+is+very+important.+You+should+not+give+up+unless+you+are+forced+to+give+up.%22+%E2%80%94+Elon+Musk" alt="Elon Musk Quote" />
+  </a>
+  <br/>
 </div>
 
 <br/>
