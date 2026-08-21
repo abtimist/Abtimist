@@ -2,7 +2,7 @@
 
 
 <!-- Activity Graph - More Reliable -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abtimist&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ab&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Streak Stats - Alternative Domain -->
