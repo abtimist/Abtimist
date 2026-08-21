@@ -40,9 +40,9 @@ I'm a developer focused on data analytics and building end-to-end products power
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="70" title="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="70" title="NumPy" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=217346" height="70" title="Excel" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/mdi:sigma.svg?color=f9a826" height="70" title="Statistics" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=f9a826" height="70" title="Data Visualization" />
+<img src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=%23217346" height="70" title="Excel" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi:sigma.svg?color=%23f9a826" height="80" title="Statistics" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=%23f9a826" height="80" title="Data Visualization" />
 
 <br/><br/>
 
@@ -51,10 +51,10 @@ I'm a developer focused on data analytics and building end-to-end products power
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="70" title="Scikit-learn" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="70" title="PyTorch" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="70" title="OpenCV" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/mdi:scan-helper.svg?color=f9a826" height="70" title="YOLO" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons:langchain.svg?color=ffffff" height="70" title="LangGraph" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=f9a826" height="70" title="RAG" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons:openai.svg?color=ffffff" height="70" title="LLMs" />
+<img src="https://api.iconify.design/mdi:vector-square.svg?color=%23f9a826" height="80" title="YOLO" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=%23ffffff" height="70" title="LangGraph" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23f9a826" height="80" title="RAG" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23ffffff" height="70" title="LLMs" />
 
 <br/><br/>
 
@@ -75,7 +75,7 @@ I'm a developer focused on data analytics and building end-to-end products power
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="70" title="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="70" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons:mlflow.svg?color=0194E2" height="70" title="MLflow" />
+<img src="https://api.iconify.design/simple-icons:mlflow.svg?color=%230194E2" height="70" title="MLflow" />
 
 </div>
 
