@@ -86,24 +86,17 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abtimist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=abtimist&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abtimist&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://gh-readme-stats.vercel.app/api?username=abtimist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=abtimist&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abtimist&theme=tokyonight" width="100%" alt="Profile Summary Details" />
 </div>
 
 <br/>
