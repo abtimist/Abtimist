@@ -45,7 +45,10 @@ I am a developer focused on building practical backend systems and AI/ML pipelin
 
 **AI / LLM**
 <br/><br/>
-<code>LangGraph</code> &nbsp;&nbsp;&nbsp; <code>RAG</code> &nbsp;&nbsp;&nbsp; <code>OpenAI API</code> &nbsp;&nbsp;&nbsp; <code>YOLO</code>
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=white" height="60" title="LangGraph" /> &nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=white" height="60" title="RAG" /> &nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=white" height="60" title="OpenAI API" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/yolo/white" height="60" title="YOLO" />
 
 <br/><br/>
 
