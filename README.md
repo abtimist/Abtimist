@@ -24,48 +24,53 @@ I am a developer focused on building practical backend systems and AI/ML pipelin
 <br/>
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,html,css" height="40" />
-<br/>
-<sub>Python • SQL • JavaScript • HTML • CSS</sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" title="Python" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" title="JavaScript" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" title="HTML5" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" title="CSS3" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="60" title="SQL" />
 
 <br/><br/>
 
 **Data & Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch,opencv" height="40" />
-<br/>
-<sub>NumPy • Pandas • Scikit-learn • PyTorch • OpenCV • YOLO</sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="60" title="NumPy" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="60" title="Pandas" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="60" title="Scikit-learn" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60" title="PyTorch" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="60" title="OpenCV" />
 
 <br/><br/>
 
 **AI / LLM**
-<br/>
-<sub>LangGraph • RAG • OpenAI API</sub>
+<br/><br/>
+<code>LangGraph</code> &nbsp;&nbsp;&nbsp; <code>RAG</code> &nbsp;&nbsp;&nbsp; <code>OpenAI API</code> &nbsp;&nbsp;&nbsp; <code>YOLO</code>
 
 <br/><br/>
 
 **Backend / Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,react" height="40" />
-<br/>
-<sub>FastAPI • React</sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="60" title="FastAPI" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" title="React" />
 
 <br/><br/>
 
 **Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" height="40" />
-<br/>
-<sub>PostgreSQL • MongoDB • SQLite</sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" title="PostgreSQL" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="60" title="MongoDB" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="60" title="SQLite" />
 
 <br/><br/>
 
 **Tools & Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" height="40" />
-<br/>
-<sub>Git • GitHub • Docker • Linux • Postman</sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" title="Git" /> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" height="60" title="GitHub" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="60" title="Docker" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" title="Linux" /> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" title="Postman" />
 
 <br/><br/>
 
