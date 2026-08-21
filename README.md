@@ -18,12 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer focused on building practical **backend systems** and **AI/ML pipelines** with Python and SQL. My work sits at the intersection of data analytics, machine learning, and scalable web services — turning messy data into products that actually ship.
-
-- 🔭 Currently building backend services and ML-powered applications
-- 🧠 Exploring LLM tooling — RAG pipelines, agentic workflows, and LangChain
-- 🌱 Sharpening skills in FastAPI, computer vision, and applied ML
-- 💬 Ask me about Python, SQL, data pipelines, or LLM integrations
+I'm a developer focused on data analytics and building end-to-end products powered by AI. I enjoy working across data, software, and AI to turn ideas into practical, functional applications.
 
 <br/>
 
@@ -31,47 +26,56 @@ I'm a developer focused on building practical **backend systems** and **AI/ML pi
 
 <div align="center">
 
-**Languages**
+<sub><b>LANGUAGES</b></sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="70" title="SQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="70" title="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="70" title="CSS" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<br/><br/>
 
-**Data & Machine Learning**
+<sub><b>DATA & ANALYTICS</b></sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="70" title="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="70" title="NumPy" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=217346" height="70" title="Excel" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi:sigma.svg?color=f9a826" height="70" title="Statistics" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi:chart-box-outline.svg?color=f9a826" height="70" title="Data Visualization" />
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<br/><br/>
 
-**AI / LLM**
+<sub><b>AI & ML</b></sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="70" title="Scikit-learn" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="70" title="PyTorch" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="70" title="OpenCV" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi:scan-helper.svg?color=f9a826" height="70" title="YOLO" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=ffffff" height="70" title="LangGraph" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=f9a826" height="70" title="RAG" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=ffffff" height="70" title="LLMs" />
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-FF5722?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+<br/><br/>
 
-**Backend / Web**
+<sub><b>BACKEND & DATABASES</b></sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="70" title="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="70" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="70" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="70" title="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="70" title="SQLite" />
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<br/><br/>
 
-**Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-
-**Tools & Infrastructure**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<sub><b>TOOLS</b></sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="70" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="70" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="70" title="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="70" title="Postman" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:mlflow.svg?color=0194E2" height="70" title="MLflow" />
 
 </div>
 
@@ -80,26 +84,13 @@ I'm a developer focused on building practical **backend systems** and **AI/ML pi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=abtimist&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f9a826&text_color=ffffff&icon_color=ff5722&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=abtimist&layout=compact&hide_border=true&bg_color=0d1117&title_color=f9a826&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=abtimist&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f9a826&text_color=ffffff&icon_color=ff5722&count_private=true" width="65%" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtimist&hide_border=true&background=0d1117&stroke=f9a826&ring=ff5722&fire=f9a826&currStreakLabel=f9a826&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="60%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abtimist&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abtimist&bg_color=0d1117&color=f9a826&line=ff5722&point=ffffff&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abtimist&hide_border=true&background=0d1117&stroke=f9a826&ring=ff5722&fire=f9a826&currStreakLabel=f9a826&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="65%" alt="GitHub Streak" />
 </div>
 
 <br/>
