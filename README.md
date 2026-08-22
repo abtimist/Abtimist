@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b1a10&height=200&section=header&text=Hi%20There,%20I'm%20Abhishek%20Vasagam%20👋&fontSize=32&fontColor=f9a826&animation=fadeIn" width="100%"/>
 
 <!-- Typing tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9A826&center=true&vCenter=true&width=600&lines=Backend+%2B+AI%2FML+Engineer;Building+with+Python+%26+LLMs;Data+Pipelines+%7C+RAG+%7C+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F9A826&center=true&vCenter=true&width=600&lines=Backend+%2B+AI%2FML+Engineer;AI+Engineering+%7C+Data+Analytics;Building+with+Python+%26+LLMs;Data+Pipelines+%7C+RAG+%7C+Computer+Vision" alt="Typing SVG" />
 
 <br/>
 
@@ -19,6 +19,10 @@
 ## 👨‍💻 About Me
 
 I'm a developer focused on data analytics and building end-to-end products powered by AI. I enjoy working across data, software, and AI to turn ideas into practical, functional applications.
+
+<div align="center">
+<img src="https://img.shields.io/badge/Open%20to-Internships-f9a826?style=for-the-badge" alt="Open to internships"/>
+</div>
 
 <br/>
 
@@ -105,12 +109,11 @@ I'm a developer focused on data analytics and building end-to-end products power
 ## 🤝 Connect With Me
 
 <div align="center">
-
-<!-- Replace the # links below with your real profile URLs -->
+<!-- LinkedIn and Email still need real links — swap the # below when ready -->
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://x.com/abhishekvasagam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<!-- ^ using @abhishekvasagam from what I have on file — confirm this is still current -->
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
 </div>
 
 <br/>
