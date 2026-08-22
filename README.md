@@ -127,6 +127,6 @@ I'm a developer focused on data analytics and building end-to-end products power
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1a10,100:0d1117&height=120&section=footer" width="100%"/>
 
-<div align="center">
+<!-- <div align="center">
   <sub>Designed with ❤️ and 🔥 for <a href="https://github.com/abtimist">@abtimist</a></sub>
-</div>
+</div> -->
