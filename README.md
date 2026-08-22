@@ -111,7 +111,7 @@ I'm a developer focused on data analytics and building end-to-end products power
 <div align="center">
 <!-- LinkedIn and Email still need real links — swap the # below when ready -->
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/abhishekvasagam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <!-- ^ using @abhishekvasagam from what I have on file — confirm this is still current -->
 <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
